@@ -1,0 +1,167 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #ff7518;
+	height: 500px;
+	width: 100%;
+}
+
+.label{
+	position: relative;
+	right: 27%;
+}
+
+
+/*.dvheader{
+	background: darkorange;
+	position: fixed;
+	width: 100%;
+}*/
+
+.h4{
+text-align: center;
+	color: #ff7518;
+	margin: 0 auto;
+}
+
+.h5{
+	text-align: center;
+	color: grey;
+
+}
+
+.div1{
+/*	background: #FFCC98 ;*/
+/*	height: 300px;*/
+	padding: 100px 20px;
+	margin: 10px;
+}
+
+.div2{
+	font-family: cursive;
+	background: white;
+	border-radius: 10px;
+	margin: 0 auto;
+	height: 600px;
+	width: 670px;
+	padding: 0px 20px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-content: space-evenly;
+}
+
+.input{
+	width: 250px;
+	height: 40px;
+	font-size: 20px;
+	border: 1px solid;
+	padding: 0px 20px;
+	color: black;
+	margin: 20px;
+	border-radius: 10px;
+}
+
+.input1{
+	width: 585px;
+}
+
+.header{
+	height: 50px;
+	padding: 5px 50px;	
+}
+
+.link1{
+	position: relative;
+	left: 75%;
+}
+
+
+.link{
+	font-family: cursive;
+	color: darkblue;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.input2{
+	margin: 20px;
+	color: white;
+	font-family: sans-serif;
+	}
+
+.btn{
+	color: blue;
+	background: #ff7518;
+	width: 350px;
+	height: 50px;
+	border: 0px;
+	font-size: 20px;
+	font-family: cursive;
+	border-radius: 10px;
+}
+
+.div3{
+  margin: 0;
+  position: absolute;
+  right: 38%;
+}
+
+.p{
+	color: white;
+	font-size: 20px;
+	font-family: cursive;
+	text-align: center;
+}
+
+
+.login{
+	width: 400px;
+	height: 40px;
+	font-size: 20px;
+	padding: 0px 20px;
+	color: black;
+	margin: 20px;
+	border-radius: 10px;
+	border: 2px solid grey;
+	align-content: center;
+}
+
+.dv{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	padding:50px 20px ;
+	justify-content: space-evenly;
+	align-content: space-evenly;
+}
+
+.dv1{
+	width: 650px;
+	height: 600px;
+	font-size: 20px;
+	border: 0px;
+	padding: 50px ;
+	color: black;
+	margin: 20px;
+	border-radius: 10px;
+	background: white;
+	text-align: center;
+	font-family: cursive;
+}
+
+.dv2{
+	width: 650px;
+	height: 700px;
+	font-size: 20px;
+	border: 0px;
+	padding: 0px 20px;
+	color: black;
+	margin: 20px;
+	border-radius: 10px;
+	background: grey;
+}
